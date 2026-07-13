@@ -1,0 +1,26 @@
+{
+  "id": "unique-story-slug",
+  "title": "Story headline",
+  "dek": "One sentence explaining why the story matters.",
+  "country": "Country",
+  "city": "City",
+  "section": "Politics",
+  "published": "2026-07-12T18:00:00Z",
+  "updated": "2026-07-12T18:00:00Z",
+  "author": "Reporter Name",
+  "read": "6 min",
+  "time": "Just published",
+  "status": "draft",
+  "body": [
+    "Opening paragraph.",
+    "Context paragraph.",
+    "Closing paragraph."
+  ],
+  "sources": [
+    {
+      "title": "Source title",
+      "url": "https://example.com/source",
+      "accessed": "2026-07-12"
+    }
+  ]
+}
