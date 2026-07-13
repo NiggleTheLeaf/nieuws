@@ -1,0 +1,20 @@
+{
+  "id": "rw-connect",
+  "country": "Rwanda",
+  "city": "Kigali",
+  "section": "Technology",
+  "time": "3 hrs ago",
+  "read": "6 min",
+  "title": "The quiet race to connect the last mile",
+  "dek": "Rwandan engineers are testing community networks designed for the places conventional broadband misses.",
+  "author": "Claude Uwimana",
+  "body": [
+    "On a hillside outside Kigali, a solar-powered relay turns one connection into a network shared by homes, workshops and a nearby school.",
+    "Local operators handle maintenance, residents buy only the data they need and equipment is designed to survive unreliable power.",
+    "Reliable access changes what becomes possible—from price information for farmers to remote consultations at rural clinics."
+  ],
+  "published": "2026-07-12T05:00:00.000Z",
+  "updated": "2026-07-12T05:00:00.000Z",
+  "status": "published",
+  "sources": []
+}
